@@ -27,5 +27,3 @@ pip install -r requirements.txt
 python predator_fuzzer.py
 ```
 
-## License
-MIT License
